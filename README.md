@@ -1,14 +1,12 @@
 # SQL-PROJECT-1-MUSIC-STORE-DATA-ANALYSIS
 Music Store Data Analysis With SQL
 
-
-## Database Schema
-![image](https://github.com/user-attachments/assets/fdcf2212-d39b-4403-9adb-c7bd2f836610)
-
 ## Objective:
 We will analyze the dataset music store database with SQL and help the store to understand the business growth by answering Question’s 
 
 ![images](https://github.com/user-attachments/assets/522cbee6-d30c-4147-91cc-8b611b15ad93)
+## Database Schema
+![image](https://github.com/user-attachments/assets/fdcf2212-d39b-4403-9adb-c7bd2f836610)
 
 
 ## PROJECT FINDINGS:
