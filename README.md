@@ -12,6 +12,7 @@ The music store wants to understand customer behavior, sales performance, and pr
 - How can the store target marketing efforts effectively?
 
 ![image](https://github.com/user-attachments/assets/6b68dbb9-0d8b-4b5d-b706-18d6fe715845)
+
 To support strategic decision-making, the project aims to extract actionable insights from the database using SQL queries.
 
 ## Objective:
